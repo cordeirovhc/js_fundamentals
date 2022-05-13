@@ -17,6 +17,22 @@
 
 - Herança em javascript
 
+## ECMAScript Modules
+
+- node.js ^14.3
+
+## Tecnologias
+
+- [node.js](https://nodejs.org/en/)
+- [draftlog](https://www.npmjs.com/package/draftlog)
+- [chalk](https://www.npmjs.com/package/chalk)
+- [chalk-table](https://www.npmjs.com/package/chalk-table)
+- [mocha](https://mochajs.org/)
+- [chai](https://www.chaijs.com/)
+- [istanbul](https://istanbul.js.org/)
+- [sinon](https://sinonjs.org/)
+- [reify](https://www.npmjs.com/package/reify)
+
 ## Referências
 
 - [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
