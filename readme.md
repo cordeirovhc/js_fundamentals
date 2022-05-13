@@ -13,6 +13,10 @@
 - Coerção Implícita
 - Coerção Explícita
 
+## Prototype Chain
+
+- Herança em javascript
+
 ## Referências
 
 - [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
