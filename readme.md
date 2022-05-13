@@ -7,6 +7,12 @@
 
 - Pilha de memória para guardar dados do tipo referência
 
+## Coerção de Tipos
+
+- Processo de conversão de tipos de valores, no javascript qualquer tipo de dados está sujeito a conversão para três tipos: string, boolean, number.
+- Coerção Implícita
+- Coerção Explícita
+
 ## Referências
 
 - [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
@@ -15,3 +21,5 @@
 - [Understanding the size of an object in Chrome/V8](https://www.mattzeunert.com/2017/03/29/v8-object-size.html)
 - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+- [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
+- [JavaScript type coercion explained](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839)
